@@ -1,4 +1,4 @@
-# 📊 Proyecto 5 – Análisis de Planes Telefónicos | Megaline
+# 📊 Proyecto 5. Análisis de Planes Telefónicos | Megaline
 
 ## 🎯 Objetivo
 Analizar el comportamiento de los usuarios y los ingresos generados por los planes Surf y Ultimate de la empresa Megaline, con el fin de identificar diferencias de consumo, rentabilidad y oportunidades de optimización comercial.
